@@ -17,12 +17,9 @@
     <link rel="shortcut icon" type="image/x-icon" href="//o3bnyc.creatby.com/admin-coolsite360/favicon.ico">
 
     <script>
-    coolsite360={
-        PlayerPlugins:[]
-    } ;
+
     </script>
-    <link type="text/css" href="//version.coolsite360.com/10a1ey/16/global_fonts.css" rel="stylesheet" media="all">
-<link rel="stylesheet" href="//o3bnyc.creatby.com/release/css/d22a285ee282.css" type="text/css" media="all" /><link rel="stylesheet" href="//o3bnyc.creatby.com/release/css/3bacf7efbbc8.css" type="text/css" />
+    
 
 
 
@@ -31,13 +28,7 @@
 
 
 
-
-    <link href="//b.coolsite360.com/fakeLoader.js/1.1.0/fakeLoader.min.css" rel="stylesheet">
-    <script type="text/javascript" src="//o3bnyc.creatby.com/coolsite-front-v2/js/index_data.js"></script>
-    <script type="text/javascript" src="//o3bnyc.creatby.com/coolsite-front-v2/thirdparty_js/jquery.min.js"></script>
-    <script type="text/javascript" src="//o3bnyc.creatby.com/coolsite-front-v2/thirdparty_js/bootstrap.min.js"></script>
-    <script type='text/javascript'>
-        var _vds = _vds || [];
+    
         window._vds = _vds;
         (function(){
             _vds.push(['setAccountId', '958334e5a3ed7e2b']);
